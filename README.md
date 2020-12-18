@@ -31,7 +31,8 @@ IT 기술로 혁신적인 보험 서비스를 제공할 수 있는 기반을 개
 ## 사용 기술
 
 1. JavaScript(ES6+), React, Express
-1. Kotlin, Android Studio
+1. Kotlin, Android SDK
+1. Swift, iOS SDK
 
 ## 기업 소개
 
